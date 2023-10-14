@@ -1,0 +1,27 @@
+/* Header.css */
+
+header {
+  display: flex; 
+  align-items: center; 
+  flex-direction: column;
+  text-align: center;
+}
+
+header img {
+  width: 50px; 
+  height: auto; 
+  
+ 
+margin-right: 10px; 
+}
+
+header h1 {
+  font-size: 24px; 
+}
+
+header p {
+  font-size: 16px; 
+}
+
+  
+  

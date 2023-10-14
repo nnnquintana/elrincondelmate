@@ -1,0 +1,51 @@
+.footer {
+    background-color: #009688; /* Color de fondo del footer */
+    color: #fff; /* Color del texto del footer */
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid #007575; /* Borde superior con color más claro */
+  }
+  
+  .footer h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #fff; /* Color del título "Contáctanos" */
+  }
+  
+  .footer p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  .footer ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: center; /* Centrar el texto en la lista */
+  }
+  
+  .footer ul li {
+    margin-bottom: 5px;
+    display: inline-block; /* Mostrar elementos en línea para que estén uno al lado del otro */
+  }
+  
+  .footer ul strong {
+    font-weight: bold;
+    margin-right: 5px;
+    color: #260343; /* Color del texto fuerte */
+  }
+  
+  .footer p.copyright {
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  
+  .footer a {
+    color: #000203; /* Color de los enlaces */
+    text-decoration: none;
+    transition: color 0.3s ease; /* Transición suave al cambiar el color de los enlaces */
+  }
+  
+  .footer a:hover {
+    color: #750000; /* Color de los enlaces al pasar el mouse por encima */
+  }

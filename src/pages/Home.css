@@ -1,0 +1,62 @@
+
+.home {
+    text-align: center;
+    padding: 50px;
+}
+
+.home h1 {
+    font-size: 36px;
+    margin: 10px 0;
+    color: #009688; 
+}
+
+.home p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.home img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 5px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); 
+}
+
+
+.home button {
+    background-color: #009688; 
+    color: #fff; 
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+}
+
+.home button:hover {
+    background-color: #007575; 
+}
+
+
+.home .promotions {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.home .promotions h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #009688; 
+}
+
+.home .promotions ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.home .promotions ul {
+    list-style: none; 
+    padding-left: 0;
+}
